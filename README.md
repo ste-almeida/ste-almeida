@@ -1,7 +1,7 @@
-- :kiss:Oi, eu sou **Stefany Almeida**
-- :ribbon:Não pretendo colaborar com ninguém
-- :kiss:Atualmente estou aprendendo a programar em JavaScript
-- :ribbon:Gosto de música, jogos e assistir séries
+- :kiss:Oi, me chamo **Stefany Almeida**.
+- :ribbon:Não pretendo colaborar com ninguém.
+- :kiss:Atualmente estou aprendendo a programar em JavaScript.
+- :ribbon:Gosto de música, jogos e assistir séries.
 
 ![cu](https://i.gifer.com/origin/1c/1c29154636f73295ad5fe84068c7a180.gif)
 <!---
